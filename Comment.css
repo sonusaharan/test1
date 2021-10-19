@@ -1,0 +1,15 @@
+.main{
+    /* display: flex; */
+}
+.headerSection{
+    display: flex;
+}
+.user{
+    color: #0e83a3;
+    margin: 0px 15px;
+    /* font-size: 18px; */
+}
+.date{
+    font-size: 13px;
+    color: grey;
+}
